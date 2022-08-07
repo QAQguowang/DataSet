@@ -1,0 +1,28 @@
+<annotation>
+	<source>
+		<filename>15.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Airplane</name>
+			</possibleresult>
+			<points>
+				<point>442.000000,445.000000</point>
+				<point>432.000000,490.000000</point>
+				<point>382.000000,479.000000</point>
+				<point>392.000000,433.000000</point>
+				<point>442.000000,445.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>

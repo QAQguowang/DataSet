@@ -1,0 +1,28 @@
+<annotation>
+	<source>
+		<filename>23.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>Ship</name>
+			</possibleresult>
+			<points>
+				<point>392.000000,469.000000</point>
+				<point>352.000000,527.000000</point>
+				<point>343.000000,520.000000</point>
+				<point>379.000000,461.000000</point>
+				<point>392.000000,469.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
